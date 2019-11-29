@@ -87,7 +87,7 @@ a {
 
 .container {
   width: 100%;
-  background-image: url('theatre-banner.jpg');
+  background-image: url('https://raw.githubusercontent.com/SamMoynihan/TheatreWebsite/master/assets/theatre-banner.jpg');
   color: white;
   font-size: 60px;
   padding-top: 100px;
